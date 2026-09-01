@@ -1,0 +1,14 @@
+{
+  "name": "@systo/skills",
+  "version": "1.0.0",
+  "description": "Seven Agent Skills for design and motion work. Claude Code, Codex, Antigravity, Cursor.",
+  "bin": { "systo-skills": "scripts/install.mjs" },
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "files": ["skills", "scripts", "AGENTS.md", ".claude-plugin", ".cursor-plugin"],
+  "keywords": ["claude-code", "agent-skills", "codex", "antigravity", "cursor", "design", "motion-graphics"],
+  "homepage": "https://systo-ai.com/skills",
+  "repository": { "type": "git", "url": "https://github.com/systoai-design/skills.git" },
+  "license": "MIT",
+  "author": "Systo (https://systo-ai.com)"
+}

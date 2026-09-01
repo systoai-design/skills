@@ -1,0 +1,14 @@
+{
+  "name": "systo",
+  "description": "The skills Systo's operators use on client work. Design systems, static creative, motion graphics and scroll-driven 3D.",
+  "owner": {
+    "name": "Systo"
+  },
+  "plugins": [
+    {
+      "name": "systo",
+      "source": "./",
+      "description": "All seven Systo skills: artboard, swipefile, manifesto, motion-brief, motion-graphics-director, hyperframes-render-discipline, threejs-scroll-sites."
+    }
+  ]
+}

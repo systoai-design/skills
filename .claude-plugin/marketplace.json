@@ -1,0 +1,19 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "systo",
+  "description": "The skills Systo's operators use on client work. Design systems, static creative, motion graphics and scroll-driven 3D.",
+  "owner": {
+    "name": "Systo",
+    "url": "https://systo-ai.com"
+  },
+  "plugins": [
+    {
+      "name": "systo",
+      "source": "./",
+      "description": "All seven Systo skills: artboard (recut, rebrand and generate static creative), swipefile (capture a site's design system by measurement), manifesto (replicate a motion-graphics video frame for frame), motion-brief (write the brief before anything is built), motion-graphics-director (decide how much pipeline a video actually needs), hyperframes-render-discipline (six verification habits for render work), threejs-scroll-sites (scroll-driven 3D and an idle render governor).",
+      "author": { "name": "Systo", "url": "https://systo-ai.com" },
+      "category": "design",
+      "keywords": ["design", "motion-graphics", "creative", "threejs", "video", "brand"]
+    }
+  ]
+}

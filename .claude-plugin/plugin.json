@@ -1,0 +1,10 @@
+{
+  "name": "systo",
+  "version": "1.0.0",
+  "description": "The skills Systo's operators use on client work: static creative, design systems, motion graphics, and scroll-driven 3D.",
+  "author": { "name": "Systo", "url": "https://systo-ai.com" },
+  "homepage": "https://systo-ai.com/skills",
+  "repository": "https://github.com/systoai-design/skills",
+  "license": "MIT",
+  "keywords": ["design", "motion-graphics", "creative", "threejs", "brand", "video"]
+}
